@@ -1,6 +1,6 @@
 # foundations for deep learning:
 1. I emphasize mathematical/conceptual foundations because implementations of ideas(ex. Torch, Tensorflow)
-   will keep evolving but the underlying backbone must be sound. Anybody with an interest in deep learning 
+   will keep evolving but the underlying theory must be sound. Anybody with an interest in deep learning 
    can and should try to understand why things work. 
 2. I include neuroscience as a useful conceptual foundation for two reasons. First, it may provide inspiration
    for future models and algorithms. Second, the success of deep learning can contribute to useful hypotheses
@@ -24,6 +24,7 @@ This is how all good science is done.
 7. Learning Deep Generative Models(Salakhutdinov 2015)
 8. Why does unsupervised pre-training help deep learning?(Erhan et al. 2010)
 9. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(Ioffe 2015)
+10. Bayesian Back-Propagation (W. Buntine & A. Weigend 1991)
 
 ## Mathematical papers:
 1. Dropout Rademacher Complexity of Deep Neural Networks(Wei Gao 2014)
