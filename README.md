@@ -9,7 +9,7 @@
 and statistical prediction. In fact, data compressors and machine learning models approximate Kolmogorov Complexity
 which is the ultimate data compressor. 
 
-You might notice that I haven't emphasized the latest bench-mark beating paper. My reason for this is that a good
+You might notice that I haven't emphasized the latest benchmark-beating paper. My reason for this is that a good
 theory ought to be scalable which means that it should be capable of explaining why deep models generalise and we
 should be able to bootstrap these explanations for more complex models(ex. sequences of deep models(aka RNNs)).
 This is how all good science is done. 
