@@ -39,8 +39,11 @@ This is how all good science is done.
 8. The Loss Surfaces of Multilayer Networks(Y LeCun et al. 2015. AISTATS.)
 9. Understanding Synthetic Gradients and Decoupled Neural Interfaces(W. Czarnecki 2017. CoRR.)
 10. Dataset Shift(Storkey 2013)
-11. Risk vs Uncertainty(I. Osband 2016. NIPS.)
-12. The loss surface of deep and wide neural networks(Q. Nguyen 2017)
+11. The loss surface of deep and wide neural networks(Q. Nguyen 2017)
+12. A Differential Equation for Modeling Nesterov’s Accelerated Gradient Method(W. Su 2016. Journal of Machine Learning Research.)
+13. The Physical Systems behind Optimization (L. Yang et al. 2017.)
+14. Simple Explanation of the No-Free-Lunch Theorem and Its Implications (Y. Ho. 2002. JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS.)
+15. Adam: A method for Stochastic Optimization (D. Kingma 2015. ICLR. )
 
 ## Information Theory papers:
 1. Shannon Information and Kolmogorov Complexity (Grunwald 2010)
