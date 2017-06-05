@@ -48,11 +48,11 @@ This is how all good science is done.
 1. Towards an integration of deep learning and neuroscience(Marblestone 2016. Frontiers in Computational Neuroscience.)
 2. Equilibrium Propagation(Scellier 2016. Frontiers in Computational Neuroscience.)
 3. Towards Biologically plausible deep learning(Bengio 2015. CoRR.)
-4. Random synaptic feedback weights(Lillicrap 2016)
-5. Deep learning with spiking neurons(Mesnard 2016)
+4. Random synaptic feedback weights support error backpropagation for deep learning(Lillicrap 2016. Nature communications.)
+5. Towards deep learning with spiking neurons(Mesnard 2016. NIPS.)
 6. Towards deep learning with spiking dendrites(Guergiuev 2017)
-7. Variational learning for recurrent spiking networks(Rezende 2011)
-8. A view of Neural Networks as dynamical systems(Cessac 2009)
+7. Variational learning for recurrent spiking networks(Rezende 2011. NIPS.)
+8. A view of Neural Networks as dynamical systems(Cessac 2009. I. J. Bifurcation and Chaos)
 
 ### Note: This is a work in progress. I have a lot more papers to add.
 
