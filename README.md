@@ -14,6 +14,8 @@ theory ought to be scalable which means that it should be capable of explaining 
 should be able to bootstrap these explanations for more complex models(ex. sequences of deep models(aka RNNs)).
 This is how all good science is done. 
 
+For an excellent historical overview of deep learning, I would recommend reading 
+
 ## Classics:
 1. Learning Deep Generative Models(Salakhutdinov 2015. Annual Review of Statistics and Its Application. )
 2. Uncertainty in Deep Learning(Yarin Gal 2017. University of Cambridge.)
@@ -24,6 +26,7 @@ This is how all good science is done.
 7. Why does unsupervised pre-training help deep learning?(Erhan et al. 2010. Journal of Machine Learning Research.)
 8. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(S. Ioffe 2015. ICML.)
 9. Bayesian Back-Propagation (W. Buntine & A. Weigend 1991. )
+10. Deep Learning in Neural Networks: An Overview (J. Schmidhuber. 2015. Neural Networks.)
 
 ## Mathematical papers:
 1. Dropout Rademacher Complexity of Deep Neural Networks(Wei Gao 2015. Science China Information Sciences.)
