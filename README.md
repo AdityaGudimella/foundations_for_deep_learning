@@ -44,6 +44,7 @@ This is how all good science is done.
 13. The Physical Systems behind Optimization (L. Yang et al. 2017.)
 14. Simple Explanation of the No-Free-Lunch Theorem and Its Implications (Y. Ho. 2002. Journal of optimization theory and applications.)
 15. Adam: A method for Stochastic Optimization (D. Kingma 2015. ICLR.)
+16. On the ability of neural nets to express distributions （H. Lee, R. Ge, T. Ma, A. Risteski & S. Arora, 2017）
 
 ## Information Theory papers:
 1. Shannon Information and Kolmogorov Complexity (Grunwald 2010)
