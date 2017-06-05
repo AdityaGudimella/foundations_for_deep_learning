@@ -42,8 +42,8 @@ This is how all good science is done.
 11. The loss surface of deep and wide neural networks(Q. Nguyen 2017)
 12. A Differential Equation for Modeling Nesterov’s Accelerated Gradient Method(W. Su 2016. Journal of Machine Learning Research.)
 13. The Physical Systems behind Optimization (L. Yang et al. 2017.)
-14. Simple Explanation of the No-Free-Lunch Theorem and Its Implications (Y. Ho. 2002. JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS.)
-15. Adam: A method for Stochastic Optimization (D. Kingma 2015. ICLR. )
+14. Simple Explanation of the No-Free-Lunch Theorem and Its Implications (Y. Ho. 2002. Journal of optimization theory and applications.)
+15. Adam: A method for Stochastic Optimization (D. Kingma 2015. ICLR.)
 
 ## Information Theory papers:
 1. Shannon Information and Kolmogorov Complexity (Grunwald 2010)
