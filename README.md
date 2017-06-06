@@ -14,7 +14,8 @@ theory ought to be scalable which means that it should be capable of explaining 
 should be able to bootstrap these explanations for more complex models(ex. sequences of deep models(aka RNNs)).
 This is how all good science is done. 
 
-### For an excellent historical overview of deep learning, I would recommend reading [Deep Learning in Neural Networks](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/classics/deep_learning_in_neural_networks.pdf).
+### For an excellent historical overview of deep learning, I would recommend reading [Deep Learning in Neural Networks](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/classics/deep_learning_in_neural_networks.pdf). Alternatively, if you prefer watching videos I
+would highly recommend R. Salakhutdinov's [Deep Learning Tutorials](https://www.youtube.com/watch?v=-SY4-GkDM8g&t=4s).
 
 ## Classics:
 1. Learning Deep Generative Models(Salakhutdinov 2015. Annual Review of Statistics and Its Application. )
