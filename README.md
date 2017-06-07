@@ -18,7 +18,7 @@ This is how all good science is done.
 
 ## Deep Learning:
 1. History:
-	* Deep Learning in Neural Networks: An Overview (J. Schmidhuber. 2015. Neural Networks.)
+	* [Deep Learning in Neural Networks: An Overview (J. Schmidhuber. 2015. Neural Networks.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/history_of_deep_learning/deep_learning_in_neural_networks.pdf)
 2. Optimisation:
 	* Learning Internal Representations by Error Propagation(D. Rumelhart et al. 1996. MIT Press ) 
 	* Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(S. Ioffe. 2015. ICML.)
