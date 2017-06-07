@@ -17,16 +17,37 @@ This is how all good science is done.
 ### For an excellent historical overview of deep learning, I would recommend reading [Deep Learning in Neural Networks](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/history_of_deep_learning/deep_learning_in_neural_networks.pdf) as well as R. Salakhutdinov's [Deep Learning Tutorials](https://www.youtube.com/watch?v=-SY4-GkDM8g&t=4s). 
 
 ## Deep Learning:
-1. Learning Deep Generative Models(Salakhutdinov 2015. Annual Review of Statistics and Its Application. )
-2. Uncertainty in Deep Learning(Yarin Gal 2017. University of Cambridge.)
-3. Markov Chain Monte Carlo and Variational Inference: Bridging the Gap (Salimans 2015. ICML. )
-4. Weight Normalization (Salimans 2016. NIPS.)
-5. Mixture Density Networks (Bishop 1994)
-6. Dropout as a Bayesian Approximation(Yarin Gal 2016. ICML. )
-7. Why does unsupervised pre-training help deep learning?(Erhan et al. 2010. Journal of Machine Learning Research.)
-8. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(S. Ioffe 2015. ICML.)
-9. Bayesian Back-Propagation (W. Buntine & A. Weigend 1991. )
-10. Deep Learning in Neural Networks: An Overview (J. Schmidhuber. 2015. Neural Networks.)
+1. History:
+	* Deep Learning in Neural Networks: An Overview (J. Schmidhuber. 2015. Neural Networks.)
+2. Optimisation:
+	* Learning Internal Representations by Error Propagation(D. Rumelhart et al. 1996. MIT Press ) 
+	* Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift(S. Ioffe. 2015. ICML.)
+	* Weight Normalization (Salimans 2016. NIPS.)
+	* Bayesian Back-Propagation (W. Buntine & A. Weigend 1991. )
+	* Credit Assignment through Time: Alternatives to Backpropagation (Y. Bengio. 1993. NIPS.)
+3. Regularisation:
+	* Dropout: A Simple Way to Prevent Neural Networks from Overfitting (N. Srivastava et al. 2014. Journal of Machine Learning Research.)
+	* Why Does Unsupervised Pre-training Help Deep Learning? (D. Erhan et al. 2010. Journal of Machine Learning Research.)
+4. Inference:
+	* Uncertainty in Deep Learning(Yarin Gal. 2017. University of Cambridge.)
+	* Mixture Density Networks (Bishop 1994)
+	* Dropout as a Bayesian Approximation(Yarin Gal 2016. ICML. )
+	* Markov Chain Monte Carlo and Variational Inference: Bridging the Gap (Salimans. 2015. ICML.)
+	* Auto-Encoding Variational Bayes (D. Kingma & M. Welling. 2014. ICLR.)
+	* Variational Dropout and the Local Reparameterization Trick (D. Kingma, T. Salimans & M. Welling. 2015. NIPS.)
+	* Avoiding pathologies in very deep networks (D. Duvenaud et al. 2014. AISTATS.)
+	* Stochastic Gradient Hamiltonian Monte Carlo (T. Chen. 2014. ICML.)
+	* On Sparse Variational Methods and the Kullback-Leibler Divergence between Stochastic Processes(A. Matthews et al. 2016. AISTATS.)
+5. Deep Generative Models:
+	* Learning Deep Generative Models(Salakhutdinov. 2015. Annual Review of Statistics and Its Application.)
+	* Learning Disentangled Representations with Semi-Supervised Deep Generative Models (N. Siddarth et al. 2017.)
+	* Generative Adversarial Nets (I. Goodfellow et al. NIPS. 2014.)
+6. Continual Learning:
+	* Long Short-Term Memory (S. Hochreiter & J. Schmidhuber. Neural Computation. 1997.)
+	* Overcoming catastrophic forgetting in neural networks (J. Kirkpatrick et al. PNAS. 2017.)
+7. Hyperparameter Optimization:
+	* Taking the Human Out of the Loop: A Review of Bayesian Optimization (B. Shahriari et al. Proceedings of the IEEE. 2016.)
+	* Convolution by Evolution (C. Fernando et al. GECCO. 2016.)
 
 ## Mathematical papers:
 1. Dropout Rademacher Complexity of Deep Neural Networks(Wei Gao 2015. Science China Information Sciences.)
