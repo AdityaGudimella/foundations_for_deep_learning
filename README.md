@@ -92,9 +92,9 @@ This is how all good science is done.
 8. [A view of Neural Networks as dynamical systems(Cessac 2009. I. J. Bifurcation and Chaos)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/neural_nets_as_dynamical_systems.pdf)
 
 ## Statistical Physics:
-1. Phase Transitions of Neural Networks (W. Kinzel. 1997. Universitat Weiburg.)
-2. Convolutional Neural Networks Arise From Ising Models and Restricted Boltzmann Machines (S. Pai)
-3. Non-equilibrium statistical mechanics: From a paradigmatic model to biological transport (T. Chou et al. 2011.)
+1. [Phase Transitions of Neural Networks (W. Kinzel. 1997. Universitat Weiburg.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/phase_transitions_neural_networks.pdf)
+2. [Convolutional Neural Networks Arise From Ising Models and Restricted Boltzmann Machines (S. Pai)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/ising_models.pdf)
+3. [Non-equilibrium statistical mechanics: From a paradigmatic model to biological transport (T. Chou et al. 2011.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/non_equilibrium_physics.pdf)
 
 ### Note: This is a work in progress. I have more papers to add.
 
