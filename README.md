@@ -64,7 +64,7 @@ This is how all good science is done.
 
 2. Representation Learning:
 	* [A mathematical theory of Deep Convolutional Neural Networks for Feature Extraction(Wiatowski 2016. CoRR.)]()
-	* Spectral Representations for Convolutional Neural Networks(Rippl 2015. NIPS.)
+	* [Spectral Representations for Convolutional Neural Networks(Rippl 2015. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/representation_learning/spectral_representations_CNN.pdf)
 
 3. Learning theory:
 	* [Distribution-Specific Hardness of Learning Neural Networks(Shamir 2017. CoRR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/distribution_specific_hardness_of_learning.pdf)
