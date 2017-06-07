@@ -25,6 +25,8 @@ This is how all good science is done.
 	* Weight Normalization (Salimans 2016. NIPS.)
 	* Bayesian Back-Propagation (W. Buntine & A. Weigend 1991. )
 	* Credit Assignment through Time: Alternatives to Backpropagation (Y. Bengio. 1993. NIPS.)
+	* Adam: A method for Stochastic Optimization (D. Kingma 2015. ICLR.)
+	* Understanding Synthetic Gradients and Decoupled Neural Interfaces(W. Czarnecki 2017. CoRR.)
 3. Regularisation:
 	* Dropout: A Simple Way to Prevent Neural Networks from Overfitting (N. Srivastava et al. 2014. Journal of Machine Learning Research.)
 	* Why Does Unsupervised Pre-training Help Deep Learning? (D. Erhan et al. 2010. Journal of Machine Learning Research.)
@@ -50,22 +52,26 @@ This is how all good science is done.
 	* Convolution by Evolution (C. Fernando et al. GECCO. 2016.)
 
 ## Mathematical papers:
-1. Dropout Rademacher Complexity of Deep Neural Networks(Wei Gao 2015. Science China Information Sciences.)
-2. Distribution-Specific Hardness of Learning Neural Networks(Shamir 2017. CoRR.)
-3. Lessons from the Rademacher Complexity for Deep Learning(Sokolic 2016.ICLR.) 
-4. A mathematical theory of Deep Convolutional Neural Networks for Feature Extraction(Wiatowski 2016. CoRR.)
-5. Spectral Representations for Convolutional Neural Networks(Rippl 2015. NIPS.)
-6. Electron-Proton dynamics in deep learning(Zhang 2017. CoRR.)       
-7. Empirical Risk Minimization for Learning Theory(Vapnik 1991. NIPS.)
-8. The Loss Surfaces of Multilayer Networks(Y LeCun et al. 2015. AISTATS.)
-9. Understanding Synthetic Gradients and Decoupled Neural Interfaces(W. Czarnecki 2017. CoRR.)
-10. Dataset Shift(Storkey 2013)
-11. The loss surface of deep and wide neural networks(Q. Nguyen 2017)
-12. A Differential Equation for Modeling Nesterov’s Accelerated Gradient Method(W. Su 2016. Journal of Machine Learning Research.)
-13. The Physical Systems behind Optimization (L. Yang et al. 2017.)
-14. Simple Explanation of the No-Free-Lunch Theorem and Its Implications (Y. Ho. 2002. Journal of optimization theory and applications.)
-15. Adam: A method for Stochastic Optimization (D. Kingma 2015. ICLR.)
-16. On the ability of neural nets to express distributions （H. Lee, R. Ge, T. Ma, A. Risteski & S. Arora, 2017）
+1. Optimisation:
+	* Simple Explanation of the No-Free-Lunch Theorem and Its Implications (Y. Ho. 2002. Journal of optimization theory and applications.)
+	* The Loss Surfaces of Multilayer Networks(Y LeCun et al. 2015. AISTATS.)
+	* The loss surface of deep and wide neural networks(Q. Nguyen 2017)
+	* The Physical Systems behind Optimization (L. Yang et al. 2017.)
+	* A Differential Equation for Modeling Nesterov’s Accelerated Gradient Method(W. Su 2016. Journal of Machine Learning Research.)
+	* Electron-Proton dynamics in deep learning(Zhang 2017. CoRR.)
+
+2. Representation Learning:
+	* A mathematical theory of Deep Convolutional Neural Networks for Feature Extraction(Wiatowski 2016. CoRR.)
+	* Spectral Representations for Convolutional Neural Networks(Rippl 2015. NIPS.)
+
+3. Learning theory:
+	* Distribution-Specific Hardness of Learning Neural Networks(Shamir 2017. CoRR.)
+	* Lessons from the Rademacher Complexity for Deep Learning(Sokolic 2016.ICLR.) 
+	* Empirical Risk Minimization for Learning Theory(Vapnik 1991. NIPS.)
+	* Dataset Shift(Storkey 2013)
+	* On the ability of neural nets to express distributions （H. Lee, R. Ge, T. Ma, A. Risteski & S. Arora, 2017）
+	* Probably Approximately Correct Learning (R. Schapire. COS 511: Foundations of Machine Learning. 2006.)
+	* Rademacher Complexity (M. Balcan. CS 8803 - Machine Learning Theory. 2011.)
 
 ## Information Theory papers:
 1. Shannon Information and Kolmogorov Complexity (Grunwald 2010)
