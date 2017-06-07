@@ -36,42 +36,45 @@ This is how all good science is done.
 	* [Dropout as a Bayesian Approximation(Yarin Gal 2016. ICML. )](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/dropout_bayesian_approximation.pdf)
 	* [Markov Chain Monte Carlo and Variational Inference: Bridging the Gap (Salimans. 2015. ICML.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/MCMC_and_VI.pdf)
 	* [Auto-Encoding Variational Bayes (D. Kingma & M. Welling. 2014. ICLR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/auto_encoding_variational_bayes.pdf)
-	* [Variational Dropout and the Local Reparameterization Trick (D. Kingma, T. Salimans & M. Welling. 2015. NIPS.)]()
+	* [Variational Dropout and the Local Reparameterization Trick (D. Kingma, T. Salimans & M. Welling. 2015. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/variational_dropout.pdf)
 	* [Avoiding pathologies in very deep networks (D. Duvenaud et al. 2014. AISTATS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/avoiding_pathologies_in_very_deep_networks.pdf)
 	* [Stochastic Gradient Hamiltonian Monte Carlo (T. Chen. 2014. ICML.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/stochastic_gradient_HMC.pdf)
-	* On Sparse Variational Methods and the Kullback-Leibler Divergence between Stochastic Processes(A. Matthews et al. 2016. AISTATS.)
+	* [On Sparse Variational Methods and the Kullback-Leibler Divergence between Stochastic Processes(A. Matthews et al. 2016. AISTATS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/sparse_variational_methods_KL_divergence.pdf)
 5. Deep Generative Models:
-	* Learning Deep Generative Models(Salakhutdinov. 2015. Annual Review of Statistics and Its Application.)
-	* Learning Disentangled Representations with Semi-Supervised Deep Generative Models (N. Siddarth et al. 2017.)
-	* Generative Adversarial Nets (I. Goodfellow et al. NIPS. 2014.)
+	* [Learning Deep Generative Models(Salakhutdinov. 2015. Annual Review of Statistics and Its Application.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/deep_generative_models.pdf)
+	* [Learning Disentangled Representations with Semi-Supervised Deep Generative Models (N. Siddarth et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/learning_disentangled_representations.pdf)
+	* [Generative Adversarial Nets (I. Goodfellow et al. NIPS. 2014.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/generative_adversarial_networks.pdf)
 6. Continual Learning:
-	* Long Short-Term Memory (S. Hochreiter & J. Schmidhuber. Neural Computation. 1997.)
-	* Overcoming catastrophic forgetting in neural networks (J. Kirkpatrick et al. PNAS. 2017.)
+	* [Long Short-Term Memory (S. Hochreiter & J. Schmidhuber. Neural Computation. 1997.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/long_short_term_memory.pdf)
+	* [Overcoming catastrophic forgetting in neural networks (J. Kirkpatrick et al. PNAS. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/overcoming_catastrophic_forgetting.pdf)
 7. Hyperparameter Optimization:
-	* Taking the Human Out of the Loop: A Review of Bayesian Optimization (B. Shahriari et al. Proceedings of the IEEE. 2016.)
-	* Convolution by Evolution (C. Fernando et al. GECCO. 2016.)
+	* [Taking the Human Out of the Loop: A Review of Bayesian Optimization (B. Shahriari et al. Proceedings of the IEEE. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/taking_humans_out_of_the_loop.pdf)
+	* [Convolution by Evolution (C. Fernando et al. GECCO. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/convolution_by_evolution.pdf)
 
 ## Mathematical papers:
 1. Optimisation:
-	* Simple Explanation of the No-Free-Lunch Theorem and Its Implications (Y. Ho. 2002. Journal of optimization theory and applications.)
-	* The Loss Surfaces of Multilayer Networks(Y LeCun et al. 2015. AISTATS.)
-	* The loss surface of deep and wide neural networks(Q. Nguyen 2017)
-	* The Physical Systems behind Optimization (L. Yang et al. 2017.)
-	* A Differential Equation for Modeling Nesterov’s Accelerated Gradient Method(W. Su 2016. Journal of Machine Learning Research.)
-	* Electron-Proton dynamics in deep learning(Zhang 2017. CoRR.)
+	* [Simple Explanation of the No-Free-Lunch Theorem and Its Implications (Y. Ho. 2002. Journal of optimization theory and applications.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/No_Free_Lunch.pdf)
+	* [The Loss Surfaces of Multilayer Networks(Y LeCun et al. 2015. AISTATS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/loss_surfaces_of_multilayer_networks.pdf)
+	* [The loss surface of deep and wide neural networks(Q. Nguyen 2017)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/loss_surfaces_of_deep_neural_networks.pdf)
+	* [Qualitatively Characterizing Neural Network Optimization Problems (I. Goodfellow et al. 2015. ICLR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/qualitatively_characterizing_loss_surfaces.pdf)
+	* [The Physical Systems behind Optimization (L. Yang et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/physical_systems_behind_optimization.pdf)
+	* [A Differential Equation for Modeling Nesterov’s Accelerated Gradient Method(W. Su 2016. Journal of Machine Learning Research.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/nesterov_differential_equation.pdf)
+	* [Electron-Proton dynamics in deep learning(Zhang 2017. CoRR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/electron_proton_dynamics.pdf)
+	* [Sharp Minima Can Generalize for Deep Nets (L. Dinh et al. 2017. ICML.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/sharp_minima_can_generalize.pdf)
 
 2. Representation Learning:
-	* A mathematical theory of Deep Convolutional Neural Networks for Feature Extraction(Wiatowski 2016. CoRR.)
+	* [A mathematical theory of Deep Convolutional Neural Networks for Feature Extraction(Wiatowski 2016. CoRR.)]()
 	* Spectral Representations for Convolutional Neural Networks(Rippl 2015. NIPS.)
 
 3. Learning theory:
-	* Distribution-Specific Hardness of Learning Neural Networks(Shamir 2017. CoRR.)
-	* Lessons from the Rademacher Complexity for Deep Learning(Sokolic 2016.ICLR.) 
-	* Empirical Risk Minimization for Learning Theory(Vapnik 1991. NIPS.)
-	* Dataset Shift(Storkey 2013)
+	* [Distribution-Specific Hardness of Learning Neural Networks(Shamir 2017. CoRR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/distribution_specific_hardness_of_learning.pdf)
+	* [Lessons from the Rademacher Complexity for Deep Learning(Sokolic 2016.ICLR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/rademacher_complexity_for_deep_networks.pdf)
+	* [On the ability of neural nets to express distributions (H. Lee et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/the_ability_of_neural_nets_to_express_distributions.pdf)
+	* [Empirical Risk Minimization for Learning Theory(Vapnik 1991. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/empirical_risk_minimization.pdf)
+	* [Dataset Shift(Storkey 2013)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/dataset_shift.pdf)
 	* On the ability of neural nets to express distributions （H. Lee, R. Ge, T. Ma, A. Risteski & S. Arora, 2017）
-	* Probably Approximately Correct Learning (R. Schapire. COS 511: Foundations of Machine Learning. 2006.)
-	* Rademacher Complexity (M. Balcan. CS 8803 - Machine Learning Theory. 2011.)
+	* [Probably Approximately Correct Learning (R. Schapire. COS 511: Foundations of Machine Learning. 2006.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/pac_learning.pdf)
+	* [Rademacher Complexity (M. Balcan. CS 8803 - Machine Learning Theory. 2011.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/rademacher_complexity.pdf)
 
 ## Information Theory papers:
 1. Shannon Information and Kolmogorov Complexity (Grunwald 2010)
