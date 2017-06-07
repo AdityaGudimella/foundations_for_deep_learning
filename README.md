@@ -42,7 +42,8 @@ This is how all good science is done.
 	* [On Sparse Variational Methods and the Kullback-Leibler Divergence between Stochastic Processes(A. Matthews et al. 2016. AISTATS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/sparse_variational_methods_KL_divergence.pdf)
 5. Representation Learning:
 	* [Representation Learning: A Review and New Perspectives (Y. Bengio et al. 2013. IEEE Transactions on Pattern Analysis and Machine Intelligence.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/representation_learning/representation_learning_review.pdf)
-	* 
+	* [Deep Learning of Representations for Unsupervised and Transfer Learning (Y. Bengio. 2012. ICML.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/representation_learning/Deep%20Learning_of_Representations_for_Unsupervised_and_Transfer_Learning.pdf)
+	* [Learning Invariant Feature Hierarchies (Y. Lecun. 2012. ECCV Workshops.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/representation_learning/learning_invariant_feature_hierarchies.pdf)
 5. Deep Generative Models:
 	* [Learning Deep Generative Models(Salakhutdinov. 2015. Annual Review of Statistics and Its Application.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/deep_generative_models.pdf)
 	* [Learning Disentangled Representations with Semi-Supervised Deep Generative Models (N. Siddarth et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/learning_disentangled_representations.pdf)
