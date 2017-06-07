@@ -77,19 +77,24 @@ This is how all good science is done.
 	* [Rademacher Complexity (M. Balcan. CS 8803 - Machine Learning Theory. 2011.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/rademacher_complexity.pdf)
 
 ## Information Theory papers:
-1. Shannon Information and Kolmogorov Complexity (Grunwald 2010)
-2. Discovering Neural Nets with Low Kolmogorov Complexity(Schmidhuber 1997. Neural Networks.) 
-3. Opening the black box of Deep Neural Networks via Information (Schwartz-Ziv 2017.)                                    
+1. [Shannon Information and Kolmogorov Complexity (Grunwald 2010)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/information_theory/shannon_information_kolmogorov_complexity.pdf)
+2. [Discovering Neural Nets with Low Kolmogorov Complexity(Schmidhuber 1997. Neural Networks.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/information_theory/discovering_nets_with_low_complexity.pdf)
+3. [Opening the black box of Deep Neural Networks via Information (Schwartz-Ziv 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/information_theory/dnn_black_box_information.pdf)                                   
 
 ## Neuroscience papers:
-1. Towards an integration of deep learning and neuroscience(Marblestone 2016. Frontiers in Computational Neuroscience.)
-2. Equilibrium Propagation(Scellier 2016. Frontiers in Computational Neuroscience.)
-3. Towards Biologically plausible deep learning(Bengio 2015. CoRR.)
-4. Random synaptic feedback weights support error backpropagation for deep learning(Lillicrap 2016. Nature communications.)
-5. Towards deep learning with spiking neurons(Mesnard 2016. NIPS.)
-6. Towards deep learning with spiking dendrites(Guergiuev 2017)
-7. Variational learning for recurrent spiking networks(Rezende 2011. NIPS.)
-8. A view of Neural Networks as dynamical systems(Cessac 2009. I. J. Bifurcation and Chaos)
+1. [Towards an integration of deep learning and neuroscience(Marblestone 2016. Frontiers in Computational Neuroscience.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/deep_learning_and_neuroscience.pdf)
+2. [Equilibrium Propagation(Scellier 2016. Frontiers in Computational Neuroscience.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/equilibrium_propagation.pdf)
+3. [Towards Biologically plausible deep learning(Bengio 2015. CoRR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/biologically_plausible_deeplearning.pdf)
+4. [Random synaptic feedback weights support error backpropagation for deep learning(Lillicrap 2016. Nature communications.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/random_synaptic_feedback_backprop.pdf)
+5. [Towards deep learning with spiking neurons(Mesnard 2016. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/deep_learning_spiking_neurons.pdf)
+6. [Towards deep learning with segregated dendrites(Guergiuev 2017)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/deep_learning_segregated_dendrites.pdf)
+7. [Variational learning for recurrent spiking networks(Rezende 2011. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/variational_learning_for_recurrent_spiking_networks.pdf)
+8. [A view of Neural Networks as dynamical systems(Cessac 2009. I. J. Bifurcation and Chaos)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/neural_nets_as_dynamical_systems.pdf)
 
-### Note: This is a work in progress. I have a lot more papers to add.
+## Statistical Physics:
+1. Phase Transitions of Neural Networks (W. Kinzel. 1997. Universitat Weiburg.)
+2. Convolutional Neural Networks Arise From Ising Models and Restricted Boltzmann Machines (S. Pai)
+3. Non-equilibrium statistical mechanics: From a paradigmatic model to biological transport (T. Chou et al. 2011.)
+
+### Note: This is a work in progress. I have more papers to add.
 
