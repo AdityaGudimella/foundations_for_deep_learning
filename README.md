@@ -55,7 +55,7 @@ This is how all good science is done.
 	* [Taking the Human Out of the Loop: A Review of Bayesian Optimization (B. Shahriari et al. Proceedings of the IEEE. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/taking_humans_out_of_the_loop.pdf)
 	* [Convolution by Evolution (C. Fernando et al. GECCO. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/convolution_by_evolution.pdf)
 
-## Mathematical papers:
+## Mathematics:
 1. Optimisation:
 	* [Simple Explanation of the No-Free-Lunch Theorem and Its Implications (Y. Ho. 2002. Journal of optimization theory and applications.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/No_Free_Lunch.pdf)
 	* [The Loss Surfaces of Multilayer Networks(Y LeCun et al. 2015. AISTATS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/loss_surfaces_of_multilayer_networks.pdf)
@@ -80,12 +80,12 @@ This is how all good science is done.
 	* [Probably Approximately Correct Learning (R. Schapire. COS 511: Foundations of Machine Learning. 2006.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/pac_learning.pdf)
 	* [Rademacher Complexity (M. Balcan. CS 8803 - Machine Learning Theory. 2011.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/rademacher_complexity.pdf)
 
-## Information Theory papers:
+## Information Theory:
 1. [Shannon Information and Kolmogorov Complexity (Grunwald 2010)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/information_theory/shannon_information_kolmogorov_complexity.pdf)
 2. [Discovering Neural Nets with Low Kolmogorov Complexity(Schmidhuber 1997. Neural Networks.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/information_theory/discovering_nets_with_low_complexity.pdf)
 3. [Opening the black box of Deep Neural Networks via Information (Schwartz-Ziv 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/information_theory/dnn_black_box_information.pdf)                                   
 
-## Neuroscience papers:
+## Neuroscience:
 1. [Towards an integration of deep learning and neuroscience(Marblestone 2016. Frontiers in Computational Neuroscience.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/deep_learning_and_neuroscience.pdf)
 2. [Equilibrium Propagation(Scellier 2016. Frontiers in Computational Neuroscience.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/equilibrium_propagation.pdf)
 3. [Towards Biologically plausible deep learning(Bengio 2015. CoRR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/biologically_plausible_deeplearning.pdf)
