@@ -99,6 +99,7 @@ This is how all good science is done.
 1. [Phase Transitions of Neural Networks (W. Kinzel. 1997. Universitat Weiburg.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/phase_transitions_neural_networks.pdf)
 2. [Convolutional Neural Networks Arise From Ising Models and Restricted Boltzmann Machines (S. Pai)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/ising_models.pdf)
 3. [Non-equilibrium statistical mechanics: From a paradigmatic model to biological transport (T. Chou et al. 2011.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/non_equilibrium_physics.pdf)
+4. Replica Theory and Spin Glasses
 
 ### Note: This is a work in progress. I have more papers to add.
 
