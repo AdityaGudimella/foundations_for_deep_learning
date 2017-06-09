@@ -30,13 +30,15 @@ This is how all good science is done.
 3. Regularisation:
 	* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting (N. Srivastava et al. 2014. Journal of Machine Learning Research.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/Dropout_original_paper.pdf)
 	* [Why Does Unsupervised Pre-training Help Deep Learning? (D. Erhan et al. 2010. Journal of Machine Learning Research.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/unsupervised_pretraining.pdf)
+	* [Semi-Supervised Learning with Ladder Networks (A. Rassmus et al. 2015. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/ladder_networks.pdf)
 4. Inference:
 	* [Uncertainty in Deep Learning(Yarin Gal. 2017. University of Cambridge.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/uncertainty_in_deep_learning.pdf)
 	* [Mixture Density Networks (Bishop 1994)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/mixture_density_networks.pdf)
-	* [Dropout as a Bayesian Approximation(Yarin Gal 2016. ICML. )](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/dropout_bayesian_approximation.pdf)
+	* [Dropout as a Bayesian Approximation(Yarin Gal. 2016. ICML. )](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/dropout_bayesian_approximation.pdf)
 	* [Markov Chain Monte Carlo and Variational Inference: Bridging the Gap (Salimans. 2015. ICML.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/MCMC_and_VI.pdf)
 	* [Auto-Encoding Variational Bayes (D. Kingma & M. Welling. 2014. ICLR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/auto_encoding_variational_bayes.pdf)
 	* [Variational Dropout and the Local Reparameterization Trick (D. Kingma, T. Salimans & M. Welling. 2015. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/variational_dropout.pdf)
+	* [Improved Variational Inference with Inverse Autoregressive Flow (D. Kingma, T. Salimans et al. 2017. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/improved_VI_inverse_autoregressive_flows.pdf)
 	* [Avoiding pathologies in very deep networks (D. Duvenaud et al. 2014. AISTATS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/avoiding_pathologies_in_very_deep_networks.pdf)
 	* [Stochastic Gradient Hamiltonian Monte Carlo (T. Chen. 2014. ICML.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/stochastic_gradient_HMC.pdf)
 	* [On Sparse Variational Methods and the Kullback-Leibler Divergence between Stochastic Processes(A. Matthews et al. 2016. AISTATS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/sparse_variational_methods_KL_divergence.pdf)
@@ -47,13 +49,13 @@ This is how all good science is done.
 5. Deep Generative Models:
 	* [Learning Deep Generative Models(Salakhutdinov. 2015. Annual Review of Statistics and Its Application.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/deep_generative_models.pdf)
 	* [Learning Disentangled Representations with Semi-Supervised Deep Generative Models (N. Siddarth et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/learning_disentangled_representations.pdf)
-	* [Generative Adversarial Nets (I. Goodfellow et al. NIPS. 2014.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/generative_adversarial_networks.pdf)
+	* [Generative Adversarial Nets (I. Goodfellow et al. 2014. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/generative_adversarial_networks.pdf)
 6. Continual Learning:
-	* [Long Short-Term Memory (S. Hochreiter & J. Schmidhuber. Neural Computation. 1997.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/long_short_term_memory.pdf)
-	* [Overcoming catastrophic forgetting in neural networks (J. Kirkpatrick et al. PNAS. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/overcoming_catastrophic_forgetting.pdf)
+	* [Long Short-Term Memory (S. Hochreiter & J. Schmidhuber. 1997. Neural Computation.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/long_short_term_memory.pdf)
+	* [Overcoming catastrophic forgetting in neural networks (J. Kirkpatrick et al. 2017. PNAS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/overcoming_catastrophic_forgetting.pdf)
 7. Hyperparameter Optimization:
-	* [Taking the Human Out of the Loop: A Review of Bayesian Optimization (B. Shahriari et al. Proceedings of the IEEE. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/taking_humans_out_of_the_loop.pdf)
-	* [Convolution by Evolution (C. Fernando et al. GECCO. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/convolution_by_evolution.pdf)
+	* [Taking the Human Out of the Loop: A Review of Bayesian Optimization (B. Shahriari et al. 2016. Proceedings of the IEEE.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/taking_humans_out_of_the_loop.pdf)
+	* [Convolution by Evolution (C. Fernando et al. 2016. GECCO.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/convolution_by_evolution.pdf)
 
 ## Mathematics:
 1. Optimisation:
@@ -80,6 +82,10 @@ This is how all good science is done.
 	* [Probably Approximately Correct Learning (R. Schapire. COS 511: Foundations of Machine Learning. 2006.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/pac_learning.pdf)
 	* [Rademacher Complexity (M. Balcan. CS 8803 - Machine Learning Theory. 2011.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/rademacher_complexity.pdf)
 
+4. Learning behaviour:
+	* [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks (A. Saxe et al. CoRR. 2013)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_behaviour/linear_NN_learning_dynamics.pdf)
+
+
 ## Information Theory:
 1. [Shannon Information and Kolmogorov Complexity (Grunwald 2010)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/information_theory/shannon_information_kolmogorov_complexity.pdf)
 2. [Discovering Neural Nets with Low Kolmogorov Complexity(Schmidhuber 1997. Neural Networks.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/information_theory/discovering_nets_with_low_complexity.pdf)
@@ -94,12 +100,14 @@ This is how all good science is done.
 6. [Towards deep learning with segregated dendrites(Guergiuev 2017)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/deep_learning_segregated_dendrites.pdf)
 7. [Variational learning for recurrent spiking networks(Rezende 2011. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/variational_learning_for_recurrent_spiking_networks.pdf)
 8. [A view of Neural Networks as dynamical systems(Cessac 2009. I. J. Bifurcation and Chaos)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/neural_nets_as_dynamical_systems.pdf)
+9. [Convolutional network layers map the function of the human visual system (M. Eickenberg. 2016. NeuroImage Elsevier.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/Convolutional_network_layers_map_the_function_of_the_human_visual_system.pdf)
+10. [Cortical Algorithms for Perceptual Grouping (P. Roelfsema. 2006. Annual Review of Neuroscience.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/cortical_algorithms_for_perceptual_grouping.pdf)
 
 ## Statistical Physics:
 1. [Phase Transitions of Neural Networks (W. Kinzel. 1997. Universitat Weiburg.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/phase_transitions_neural_networks.pdf)
 2. [Convolutional Neural Networks Arise From Ising Models and Restricted Boltzmann Machines (S. Pai)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/ising_models.pdf)
 3. [Non-equilibrium statistical mechanics: From a paradigmatic model to biological transport (T. Chou et al. 2011.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/non_equilibrium_physics.pdf)
-4. Replica Theory and Spin Glasses
+4. [Replica Theory and Spin Glasses (F. Morone et al. 2014.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/replica_theory_spin_glasses.pdf)
 
 ### Note: This is a work in progress. I have more papers to add.
 
