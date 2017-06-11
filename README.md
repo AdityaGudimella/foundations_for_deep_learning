@@ -109,12 +109,12 @@ This is how all good science is done.
 3. [Non-equilibrium statistical mechanics: From a paradigmatic model to biological transport (T. Chou et al. 2011.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/non_equilibrium_physics.pdf)
 4. [Replica Theory and Spin Glasses (F. Morone et al. 2014.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/replica_theory_spin_glasses.pdf)
 
-### Note 1: There are many who love quoting Richard Feynman and Albert Einstein whenever it suits their purpose. However, Feynman's popular quote: 
-### 'What I cannot create, I do not understand' has been taken out of context by many AI researchers. There are many things we can build
+*** Note 1: There are many who love quoting Richard Feynman and Albert Einstein whenever it suits their purpose. However, Feynman's popular quote: 
+'What I cannot create, I do not understand' has been taken out of context by many AI researchers. There are many things we can build
 that we can't understand and many things we can't build that we understand very well. Take any non-constructive proof in mathematical physics
 for example. From this it follows that it's important to create, but it's essential to understand. In fact, I think it makes more sense to 
 consider the perspective of Marie Curie: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, 
-so that we may fear less." I believe that this is the attitude we should have to artificial intelligence. 
+so that we may fear less." I believe that this is the attitude we should have to artificial intelligence.***
 
-### Note 2: This is a work in progress. I have more papers to add.
+*** Note 2: This is a work in progress. I have more papers to add. ***
 
