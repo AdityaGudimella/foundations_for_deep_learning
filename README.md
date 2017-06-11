@@ -114,7 +114,7 @@ This is how all good science is done.
 that we can't understand and many things we can't build that we understand very well. Take any non-constructive proof in mathematical physics
 for example. From this it follows that it's important to create, but it's essential to understand. In fact, I think it makes more sense to 
 consider the perspective of Marie Curie: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, 
-so that we may fear less." I believe that this is the attitude we should have to artificial intelligence.
+so that we may fear less." 
 
 **Note 2:** This is a work in progress. I have more papers to add. 
 
