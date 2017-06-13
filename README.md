@@ -31,6 +31,7 @@ This is how all good science is done.
 	* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting (N. Srivastava et al. 2014. Journal of Machine Learning Research.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/Dropout_original_paper.pdf)
 	* [Why Does Unsupervised Pre-training Help Deep Learning? (D. Erhan et al. 2010. Journal of Machine Learning Research.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/unsupervised_pretraining.pdf)
 	* [Semi-Supervised Learning with Ladder Networks (A. Rassmus et al. 2015. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/ladder_networks.pdf)
+	*[Tensor Contraction Layers for Parsimonious Deep Nets(J. Kossaifi et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/tensor_contraction_layers.pdf)
 4. Inference:
 	* [Uncertainty in Deep Learning(Yarin Gal. 2017. University of Cambridge.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/uncertainty_in_deep_learning.pdf)
 	* [Mixture Density Networks (Bishop 1994)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/mixture_density_networks.pdf)
@@ -50,6 +51,7 @@ This is how all good science is done.
 	* [Learning Deep Generative Models(Salakhutdinov. 2015. Annual Review of Statistics and Its Application.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/deep_generative_models.pdf)
 	* [Learning Disentangled Representations with Semi-Supervised Deep Generative Models (N. Siddarth et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/learning_disentangled_representations.pdf)
 	* [Generative Adversarial Nets (I. Goodfellow et al. 2014. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/generative_adversarial_networks.pdf)
+	*[On Unifying Deep Generative Models(Z. Hu et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/unifying_deep_generative_models.pdf)
 6. Continual Learning:
 	* [Long Short-Term Memory (S. Hochreiter & J. Schmidhuber. 1997. Neural Computation.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/long_short_term_memory.pdf)
 	* [Overcoming catastrophic forgetting in neural networks (J. Kirkpatrick et al. 2017. PNAS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/overcoming_catastrophic_forgetting.pdf)
@@ -83,7 +85,10 @@ This is how all good science is done.
 	* [Rademacher Complexity (M. Balcan. CS 8803 - Machine Learning Theory. 2011.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/rademacher_complexity.pdf)
 
 4. Learning behaviour:
-	* [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks (A. Saxe et al. CoRR. 2013)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_behaviour/linear_NN_learning_dynamics.pdf)
+	* [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks (A. Saxe et al. 2013. CoRR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_behaviour/linear_NN_learning_dynamics.pdf)
+
+5. Unsupervised Learning:
+	*[Why does Deep Learning work? - A perspective from Group Theory (A. Paul & S. Venkatasubramanian. 2015. ICLR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/unsupervised_learning/group_theory_perspective.pdf)
 
 
 ## Information Theory:
