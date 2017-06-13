@@ -88,7 +88,7 @@ This is how all good science is done.
 	* [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks (A. Saxe et al. 2013. CoRR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_behaviour/linear_NN_learning_dynamics.pdf)
 
 5. Unsupervised Learning:
-	*[Why does Deep Learning work? - A perspective from Group Theory (A. Paul & S. Venkatasubramanian. 2015. ICLR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/unsupervised_learning/group_theory_perspective.pdf)
+	* [Why does Deep Learning work? - A perspective from Group Theory (A. Paul & S. Venkatasubramanian. 2015. ICLR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/unsupervised_learning/group_theory_perspective.pdf)
 
 
 ## Information Theory:
