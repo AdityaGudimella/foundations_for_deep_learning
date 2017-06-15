@@ -55,6 +55,7 @@ This is how all good science is done.
 6. Continual Learning:
 	* [Long Short-Term Memory (S. Hochreiter & J. Schmidhuber. 1997. Neural Computation.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/long_short_term_memory.pdf)
 	* [Overcoming catastrophic forgetting in neural networks (J. Kirkpatrick et al. 2017. PNAS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/overcoming_catastrophic_forgetting.pdf)
+
 7. Hyperparameter Optimization:
 	* [Taking the Human Out of the Loop: A Review of Bayesian Optimization (B. Shahriari et al. 2016. Proceedings of the IEEE.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/taking_humans_out_of_the_loop.pdf)
 	* [Convolution by Evolution (C. Fernando et al. 2016. GECCO.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/convolution_by_evolution.pdf)
@@ -69,9 +70,9 @@ This is how all good science is done.
 	* [A Differential Equation for Modeling Nesterov’s Accelerated Gradient Method(W. Su 2016. Journal of Machine Learning Research.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/nesterov_differential_equation.pdf)
 	* [Electron-Proton dynamics in deep learning(Zhang 2017. CoRR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/electron_proton_dynamics.pdf)
 	* [Sharp Minima Can Generalize for Deep Nets (L. Dinh et al. 2017. ICML.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/sharp_minima_can_generalize.pdf)
-	* Deep Learning without Poor Local Minima (K. Kawaguchi. 2016. NIPS.)
-	* Identifying and attacking the saddle point problem in high-dimensional non-convex optimization (Y. Dauphin et al. 2014. NIPS.)
-	* Recursive Decomposition for Nonconvex Optimization (A. Friesen and P. Domingos. 2016.)
+	* [Deep Learning without Poor Local Minima (K. Kawaguchi. 2016. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/deep_learning_without_bad_minima.pdf)
+	* [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization (Y. Dauphin et al. 2014. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/saddle_point_problem.pdf)
+	* [Recursive Decomposition for Nonconvex Optimization (A. Friesen and P. Domingos. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/recursive_decomposition.pdf)
 
 2. Representation Learning:
 	* [A mathematical theory of Deep Convolutional Neural Networks for Feature Extraction(Wiatowski 2016. CoRR.)]()
