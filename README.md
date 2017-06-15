@@ -31,7 +31,7 @@ This is how all good science is done.
 	* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting (N. Srivastava et al. 2014. Journal of Machine Learning Research.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/Dropout_original_paper.pdf)
 	* [Why Does Unsupervised Pre-training Help Deep Learning? (D. Erhan et al. 2010. Journal of Machine Learning Research.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/unsupervised_pretraining.pdf)
 	* [Semi-Supervised Learning with Ladder Networks (A. Rassmus et al. 2015. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/ladder_networks.pdf)
-	*[Tensor Contraction Layers for Parsimonious Deep Nets(J. Kossaifi et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/tensor_contraction_layers.pdf)
+	* [Tensor Contraction Layers for Parsimonious Deep Nets(J. Kossaifi et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/regularisation/tensor_contraction_layers.pdf)
 4. Inference:
 	* [Uncertainty in Deep Learning(Yarin Gal. 2017. University of Cambridge.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/uncertainty_in_deep_learning.pdf)
 	* [Mixture Density Networks (Bishop 1994)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/inference/mixture_density_networks.pdf)
