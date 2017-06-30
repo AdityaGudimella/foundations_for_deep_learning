@@ -83,10 +83,14 @@ This is how all good science is done.
 	* [Recursive Decomposition for Nonconvex Optimization (A. Friesen and P. Domingos. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/recursive_decomposition.pdf)
 	* [Sobolev Training for Neural Networks (W. Czarnecki et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/sobolev_training_for_neural_nets.pdf)
 	* [Stochastic Gradient Descent as Approximate Bayesian Inference (S. Mandt, M. Hoffman & D. Blei. 2017)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/SGD_as_bayesian_inference.pdf)
+	* No bad local minima: Data independent training error guarantees for multilayer neural networks (Daniel Soudry, Yair Carmon. 2016.)
 
 2. Representation Learning:
 	* [A mathematical theory of Deep Convolutional Neural Networks for Feature Extraction(Wiatowski 2016. CoRR.)]()
 	* [Spectral Representations for Convolutional Neural Networks(Rippl 2015. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/representation_learning/spectral_representations_CNN.pdf)
+	* [Provable bounds for learning some deep representations (Sanjeev Arora et al. 2013.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/representation_learning/bounds_for_learning_deep_representations.pdf)
+	* [Spectrally-normalized margin bounds for neural networks (Peter Bartlett. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/generalisation/spectrally_normalised_margin_bounds.pdf)
+	* [Exploring generalization in deep learning (Behnam Neyshabur et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/generalisation/exploring_generalisation_in_deep_learning.pdf)
 
 3. Learning theory:
 	* [Distribution-Specific Hardness of Learning Neural Networks(Shamir 2017. CoRR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/distribution_specific_hardness_of_learning.pdf)
@@ -131,6 +135,7 @@ This is how all good science is done.
 11. [Temporally Efficient Deep Learning with Spikes (P. O'Connor, E. Gavves & M. Welling. 2017)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/efficient_deep_learning_with_spikes.pdf)
 12. [Hierarchical Bayesian Inference in the visual cortex (T. Lee & D. Mumford. 2003.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/hierarchical_bayesian_inference.pdf)
 13. [Gradient Descent for Spiking Neural Networks (D. Huh & T. Sejnowski. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/spiking_gradient_descent.pdf)
+14. [How Important Is Weight Symmetry in Backpropagation? (Qianli Liao, Joel Z. Leibo, Tomaso A. Poggio. 2016. AAAI.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/neuroscience/weight_symmetry.pdf)
 
 ## Statistical Physics:
 1. [Phase Transitions of Neural Networks (W. Kinzel. 1997. Universitat Weiburg.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/statistical_physics/phase_transitions_neural_networks.pdf)
