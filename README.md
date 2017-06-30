@@ -77,7 +77,7 @@ This is how all good science is done.
 	* [Bitwise Neural Networks (Minje Kim et al. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/quantization/bitwise_neural_nets.pdf)
 	* [Expectation Propagation: Parameter-free training of multi-layer neural networks with continuous or discrete weights (D. Soudry et al. 2008. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/quantization/expectation_propagation.pdf)
 	* [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights (A. Zhou et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/quantization/incremental_network_quantization.pdf)
-	* [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations (Itay Hubara et al. 2016.)] (https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/quantization/quantized_nets.pdf)
+	* [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations (Itay Hubara et al. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/quantization/quantized_nets.pdf)
 
 ## Mathematics:
 1. Optimisation:
