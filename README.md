@@ -94,7 +94,7 @@ This is how all good science is done.
 	* [Recursive Decomposition for Nonconvex Optimization (A. Friesen and P. Domingos. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/recursive_decomposition.pdf)
 	* [Sobolev Training for Neural Networks (W. Czarnecki et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/sobolev_training_for_neural_nets.pdf)
 	* [Stochastic Gradient Descent as Approximate Bayesian Inference (S. Mandt, M. Hoffman & D. Blei. 2017)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/SGD_as_bayesian_inference.pdf)
-	* No bad local minima: Data independent training error guarantees for multilayer neural networks (Daniel Soudry, Yair Carmon. 2016.)
+	* [No bad local minima: Data independent training error guarantees for multilayer neural networks (Daniel Soudry, Yair Carmon. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/optimisation/no_bad_local_minima.pdf)
 
 2. Representation Learning:
 	* [A mathematical theory of Deep Convolutional Neural Networks for Feature Extraction(Wiatowski 2016. CoRR.)]()
