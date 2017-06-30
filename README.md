@@ -53,6 +53,8 @@ This is how all good science is done.
 	* [Learning Invariant Feature Hierarchies (Y. Lecun. 2012. ECCV Workshops.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/representation_learning/learning_invariant_feature_hierarchies.pdf)
 	* [Independently Controllable Features (E. Bengio et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/representation_learning/independently_controllable_features.pdf)
 	* [On the number of response regions of deep feedforward networks with piecewise linear activation (R. Pascanu, G. Montufar & Y. Bengio. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/representation_learning/number_of_response_regions.pdf)
+	* [Towards Principled Unsupervised Learning (Ilya Sutskever et al. 2015. ICLR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/representation_learning/principled_unsupervised_learning.pdf)
+	* [Understanding Representations Learned in Deep Learning (D. Erhan et al. 2010.)] (https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/representation_learning/understanding_representations_in_deep_networks.pdf)
 6. Deep Generative Models:
 	* [Learning Deep Generative Models(Salakhutdinov. 2015. Annual Review of Statistics and Its Application.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/deep_generative_models.pdf)
 	* [Learning Disentangled Representations with Semi-Supervised Deep Generative Models (N. Siddarth et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/deep_generative_models/learning_disentangled_representations.pdf)
@@ -63,10 +65,19 @@ This is how all good science is done.
 7. Continual Learning:
 	* [Long Short-Term Memory (S. Hochreiter & J. Schmidhuber. 1997. Neural Computation.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/long_short_term_memory.pdf)
 	* [Overcoming catastrophic forgetting in neural networks (J. Kirkpatrick et al. 2017. PNAS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/overcoming_catastrophic_forgetting.pdf)
+	* [Capacity and Trainability in Recurrent Neural Networks (J. Collins et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/continual_learning/capacity_trainability_RNN.pdf)
 
 8. Hyperparameter Optimization:
 	* [Taking the Human Out of the Loop: A Review of Bayesian Optimization (B. Shahriari et al. 2016. Proceedings of the IEEE.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/taking_humans_out_of_the_loop.pdf)
 	* [Convolution by Evolution (C. Fernando et al. 2016. GECCO.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/convolution_by_evolution.pdf)
+	* [Fast Bayesian Optimization of Machine Learning Hyperparameters on Large Datasets (A. Klein et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/fast_bayesian_hyperparameter_optimization.pdf)
+	* [Scalable Bayesian Optimization Using Deep Neural Networks (Jasper Snoek et al. 2015. ICML. )](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/hyperparameter_optimization/scalable_bayesian_hyperopt.pdf)
+
+9. Quantization:
+	* [Bitwise Neural Networks (Minje Kim et al. 2016.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/quantization/bitwise_neural_nets.pdf)
+	* [Expectation Propagation: Parameter-free training of multi-layer neural networks with continuous or discrete weights (D. Soudry et al. 2008. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/quantization/expectation_propagation.pdf)
+	* [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights (A. Zhou et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/quantization/incremental_network_quantization.pdf)
+	* [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations (Itay Hubara et al. 2016.)] (https://github.com/pauli-space/foundations_for_deep_learning/blob/master/deep_learning/quantization/quantized_nets.pdf)
 
 ## Mathematics:
 1. Optimisation:
