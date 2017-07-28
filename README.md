@@ -106,7 +106,6 @@ This is how all good science is done.
 3. Learning theory:
 	* [Distribution-Specific Hardness of Learning Neural Networks(Shamir 2017. CoRR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/distribution_specific_hardness_of_learning.pdf)
 	* [Lessons from the Rademacher Complexity for Deep Learning(Sokolic 2016.ICLR.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/rademacher_complexity_for_deep_networks.pdf)
-	* [On the ability of neural nets to express distributions (H. Lee et al. 2017.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/the_ability_of_neural_nets_to_express_distributions.pdf)
 	* [Empirical Risk Minimization for Learning Theory(Vapnik 1991. NIPS.)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/empirical_risk_minimization.pdf)
 	* [Dataset Shift(Storkey 2013)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/dataset_shift.pdf)
 	* [On the ability of neural nets to express distributions （H. Lee, R. Ge, T. Ma, A. Risteski & S. Arora, 2017)](https://github.com/pauli-space/foundations_for_deep_learning/blob/master/mathematics/learning_theory/the_ability_of_neural_nets_to_express_distributions.pdf)
